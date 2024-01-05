@@ -1,6 +1,6 @@
 /* global MilkCocoa, $ */
 
-var mlkcca = new MilkCocoa("【アプリID】.watarus.com");
+var mlkcca = new MilkCocoa("【アプリID】.wata4376.com");
 var ds = mlkcca.dataStore("score");
 var scoreList = { id: null, data:[] }; // スコアデータの保持用
 
